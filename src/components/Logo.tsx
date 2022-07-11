@@ -1,4 +1,9 @@
-export function Logo(){
+interface PropsLogo {
+  page: 'subscribe' | null
+}
+
+export function Logo(props:PropsLogo){
+
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
@@ -6,6 +11,7 @@ export function Logo(){
       height="34"
       fill="none"
       viewBox="0 0 237 34"
+      className={props.page == "subscribe" ? "m-auto lg:m-0 lg:mr-auto" : "mr-auto ml-5 lg:m-auto"}
     >
       <path
         fill="#fff"

@@ -1,4 +1,4 @@
-import rockeatLogo from '../assets/logo-rockeat.png';
+import rockeatLogo from '../assets/Logo-rockeat.png';
 
 export function Footer(){
   return(

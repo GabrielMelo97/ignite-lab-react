@@ -42,6 +42,7 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 https://ignite-lab-react-rho-umber.vercel.app/  <br><br> ou no local:
 
 - Clone o repositório
+- Entre na pasta clonada e execute o comando pelo terminal `npm install` ou `yarn` para instalar as dependências do projeto.
 - Inicie o projeto pelo terminal executando o comando `npm run dev` ou `yarn run dev`
 
 Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.

@@ -9,6 +9,7 @@
 </p>
 
 ![igniteLab](https://user-images.githubusercontent.com/72236316/178526627-9d7af79d-a5d8-470f-9574-f34d3ed5258a.png)
+![igniteLab](https://user-images.githubusercontent.com/72236316/179403451-1070dfb2-01d2-4b97-a5a7-1801de66ef65.gif)
 
 ## ✨ Tecnologias
 
